@@ -1,6 +1,6 @@
 # 🔴 Pokédex 📖🔍
 
-¡Bienvenido al proyecto **Pokédex Colaborativa**! Este es un repositorio centralizado donde entrenadores e investigadores Pokémon de todo el mundo pueden contribuir documentando las diferentes especies descubiertas.
+¡Bienvenido al proyecto **Pokédex**! Este es un repositorio centralizado donde entrenadores e investigadores Pokémon de todo el mundo pueden contribuir documentando las diferentes especies descubiertas.
 
 ## 🎯 Objetivo del proyecto
 Crear la base de datos de Pokémon más completa y organizada por tipos, utilizando un flujo de trabajo de control de versiones basado en **Git**. Este proyecto está diseñado para aprender a colaborar en equipo de manera ordenada.
