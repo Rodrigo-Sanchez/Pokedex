@@ -33,6 +33,7 @@ Descarga una copia exacta de la base de datos global a tu computadora local, ace
 ```
 
 ### 2. Registrar un nuevo Pokémon
+[De este recurso en línea con el listado de pokemones disponi.](https://www.wikidex.net/wiki/Lista_de_Pok%C3%A9mon_de_la_primera_generaci%C3%B3n)
 Crea un archivo nuevo en la carpeta correspondiente a su tipo (por ejemplo, `psiquico/063_Abra.md`) y anota sus datos. Para verificar qué archivos has modificado o creado recientemente en tu terminal, usa:
 ```bash
 git status
