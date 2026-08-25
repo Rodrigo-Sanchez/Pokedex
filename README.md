@@ -29,7 +29,7 @@ Si eres un nuevo investigador que desea registrar sus hallazgos, sigue estos pas
 ### 1. Obtener tu propia Pokédex (`git clone`)
 Descarga una copia exacta de la base de datos global a tu computadora local, aceptando la invitación de colaboración en Github Classroom:
 ```bash
-
+https://classroom.github.com/a/ZQmPTCZW
 ```
 
 ### 2. Registrar un nuevo Pokémon
